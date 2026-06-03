@@ -15,4 +15,4 @@ Currently open to backend engineering roles — India & Global.
 - 💊 [Pharmacy Microservices](link) — Event-driven system with Kafka & Spring Cloud
 
 ## 📫 Connect
-[LinkedIn](your-link) | yatharthkhanna81@gmail.com
+[LinkedIn](www.linkedin.com/in/yatharth-khanna) | yatharthkhanna81@gmail.com

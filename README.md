@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Yatharth Khanna 👋
 
-<!--
-**khannay2409/khannay2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Engineer with 2.5 years building cloud-native microservices.
+Currently open to backend engineering roles — India & Global.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🏟️ [Sports Venue Booking Service](link) — Concurrency-safe booking with JWT auth
+- 💊 [Pharmacy Microservices](link) — Event-driven system with Kafka & Spring Cloud
+
+## 📫 Connect
+[LinkedIn](your-link) | yatharthkhanna81@gmail.com
